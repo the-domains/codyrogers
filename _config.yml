@@ -1,0 +1,23 @@
+name: codyrogers
+favicon: null
+layout_spectrum: 0.9221495159436017
+typography_spectrum: 0.8344896202906966
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.47742263902910054
+  lightness: 0.6840021528769284
+  saturation: 0.42436545994132757
+  rhythmicContrast: 0.17145846132189035
+purpose: []
