@@ -1,23 +1,35 @@
-name: codyrogers
 favicon: null
-layout_spectrum: 0.9221495159436017
-typography_spectrum: 0.8344896202906966
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: codyrogers
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors: []
-  brandStrength: 0.47742263902910054
-  lightness: 0.6840021528769284
-  saturation: 0.42436545994132757
-  rhythmicContrast: 0.17145846132189035
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.4243654599413276
+  brandStrength: 0.4774226390291005
+  rhythmicContrast: 0.1714584613218904
+  brandColors: []
+  lightness: 0.6840021528769284
+typography_spectrum: 0.8344896202906966
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.9510638
+analytics:
+  twitter: null
+  google: null
+  facebook: null
