@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[the grid beta site]]></title>
+        <description><![CDATA[the grid beta site]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 25 Oct 2015 03:50:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test Post]]></title>
+            <description><![CDATA[<article><h1>Test Post</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus neque augue, commodo in velit non, bibendum feugiat ante. Vestibulum sollicitudin scelerisque diam, vitae pellentesque libero viverra ut. Vestibulum purus enim, egestas eget hendrerit sagittis, accumsan a purus. Phasellus convallis ut erat in gravida. Cras ut turpis facilisis, pretium odio et, vehicula enim. Integer sed consequat enim, ut malesuada massa. Donec eu dolor vitae metus tincidunt sodales. In aliquam consectetur odio, sed lacinia mauris faucibus non. Aliquam maximus hendrerit scelerisque. Aliquam at dignissim tortor. Nam non tristique erat, a malesuada ipsum. In hac habitasse platea dictumst. Cras iaculis viverra sagittis. Mauris nec leo ac tellus facilisis pretium id vitae elit. Maecenas sagittis libero et tempus convallis. In risus nisl, congue et suscipit id, lacinia ut magna.
+
+Donec sodales dolor quis tellus euismod, in eleifend nunc viverra. Sed sem nisl, maximus eu velit volutpat, bibendum cursus metus. Sed sagittis enim ut lorem fermentum ultrices. Integer et velit id leo elementum congue at sit amet lectus. Integer euismod sem eget nisi cursus, sed maximus mauris facilisis. Sed aliquet sem id lacinia pharetra. Etiam sit amet odio eget massa aliquam iaculis. Phasellus tristique ligula eget quam iaculis aliquam. Vivamus quis posuere risus. Ut diam risus, cursus ut tempus eu, ornare nec diam. In hac habitasse platea dictumst. Quisque quis sapien turpis. Vestibulum vel volutpat ipsum, quis dapibus elit. Donec eros justo, congue eu varius eu, rutrum sed ipsum.
+
+</p></article>]]></description>
+            <link>undefinedtest-post/index.html</link>
+            <guid isPermaLink="false">6e75050e-364c-42ab-ae23-24eaacb873c5</guid>
+            <pubDate>Sun, 25 Oct 2015 03:50:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
