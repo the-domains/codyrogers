@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[codyrogers]]></title>
+        <description><![CDATA[codyrogers]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 25 Oct 2015 03:39:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[There once was a post]]></title>
+            <description><![CDATA[<article><h1>There once was a post</h1><p>My first post.</p></article>]]></description>
+            <link>undefinedthere-once-was-a-post/index.html</link>
+            <guid isPermaLink="false">bb35f63c-a938-40e8-bca5-2da0ddea608e</guid>
+            <pubDate>Sun, 25 Oct 2015 03:39:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
